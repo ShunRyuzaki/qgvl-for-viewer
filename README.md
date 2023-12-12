@@ -1,18 +1,17 @@
-# Quantum Error Correction with Quantum Global Variational Learning
+# 量子大域変分学習による量子誤り訂正
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
-This repository provides an implementation of a quantum autoencoder for quantum error correction.
+このリポジトリは、主に就活向けに自身の研究の概要を伝えるためのものである。
 
-## Overview
+## 概要
+量子コンピュータには、計算に使われるビットにノイズが入りやすいという実装課題があり、そのノイズを除去する技術が量子誤り訂正である。いくつかある手法の中で、量子コンピュータ上で自律的に量子誤り訂正できるように、量子機械学習を用いた手法が注目を集めている。本研究では、学習収束と高速化の点を従来より改善した新しい手法である量子大域変分学習を用いた量子誤り訂正について提案しその性能を評価した。
 
-Quantum computers are prone to errors due to their sensitive nature, making error correction vital. In this project, we propose a method for quantum error correction using a quantum autoencoder.
+## 実装環境
+- Ubuntu22.04
+- python
 
-## Installation
-
-To run this project, follow these steps:
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/ShunRyuzaki/qgvl-for-qec.git
+## 利用ライブラリ
+- numpy
+- matplotlib
+- qiskit
