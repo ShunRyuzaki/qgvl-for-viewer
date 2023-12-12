@@ -2,6 +2,8 @@
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
+![Thesis](fidelity_of_denoised_state_example.png)
+
 このリポジトリは、主に就活向けに自身の研究の概要を伝えるためのものである。日本物理学会及び論文ジャーナルQuantumに投稿予定につきコードは掲載しない。
 
 ## 概要
