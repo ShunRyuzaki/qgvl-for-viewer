@@ -9,9 +9,9 @@
 
 ## 実装環境
 - Ubuntu22.04
-- python
+- Python 3.10.10
 
 ## 利用ライブラリ
+- qiskit
 - numpy
 - matplotlib
-- qiskit
